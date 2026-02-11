@@ -89,3 +89,62 @@ h1{
 .second-content p{
     text-align: center;
 }
+.third-page{
+    background-color: #8f8f8f;
+    padding: 20px;
+}
+.third-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px 100px;
+}
+.third-content p{
+    font-size: 30px;
+    font-style: italic;
+}
+.quote{
+    text-align: end;
+}
+.fourth-page{
+    padding: 40px;
+    background-color: #e0e0e0;
+}
+.fourth-container{
+    border-radius: 10px;
+    background-color: rgb(54, 134, 253);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+.fourth-hero{
+    color: #E5E7EB;
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.fourth-sub{
+    color: #E5E7EB;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 100;
+}
+.fourth-container button{
+    border-color: #E5E7EB;
+    margin: 20px;
+    padding: 5px;
+    background-color: rgb(94, 159, 255);
+    color: #E5E7EB;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.footer{
+    padding: 20px;
+    display: flex;
+    font-size: 15px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    justify-content: center;
+}
